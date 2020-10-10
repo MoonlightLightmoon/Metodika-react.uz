@@ -10,6 +10,9 @@
     "axios": "^0.20.0",
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
+    "jquery-migrate": "^3.3.1",
+    "jquery-waypoints": "^2.0.5",
+    "jquery.stellar": "github:markdalgleish/stellar.js#v0.6.2",
     "mdbreact": "^4.27.0",
     "popper.js": "^1.16.1",
     "react": "^16.13.1",
@@ -17,7 +20,8 @@
     "react-dom": "^16.13.1",
     "react-owl-carousel": "^2.3.1",
     "react-popper": "^2.2.3",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "scrollax": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
