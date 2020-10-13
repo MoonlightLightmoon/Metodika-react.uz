@@ -4,6 +4,9 @@ import Header from './container/Header/Header';
 import './App.css';
 import Carousel from './container/Carousel/Carousel';
 import News from './container/News/News';
+import Popular from './container/Popular/Popular';
+import Footer from './container/Popular/Footer/Footer';
+
 
 function App() {
   return (
@@ -11,6 +14,8 @@ function App() {
       <Header />
       <Carousel />
       <News />
+      <Popular />
+      <Footer />
     </div>
   );
 }
