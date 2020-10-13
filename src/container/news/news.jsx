@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import axios from "axios";
 import NewsItem from "../../components/news-item/news-item";
 
-
 class News extends Component {
     constructor(props) {
         super(props);
@@ -23,7 +22,7 @@ class News extends Component {
     renderList = () => {
         return (
             <section className="ftco-section testimony-section ftco-no-pb" id="testimonial-section">
-            		<div className="img img-bg border" style={{backgroundImage: 'url(../punlic/bg4.jpg)'}}>
+            		<div className="img img-bg border" style={{backgroundImage: 'url(bg_4.jpg)'}}>
                     </div>
             		<div className="overlay">
                     </div>

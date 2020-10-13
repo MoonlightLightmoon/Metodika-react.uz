@@ -1,6 +1,6 @@
 .post-slider {
     /* border: 1px solid red; */
-    background-color: white;
+    background:  url(../images/img02.jpg) repeat;
 }
 
 .post-slider .slider-titel {
@@ -57,3 +57,4 @@
     width: 80%;
     margin: 0 auto;
 }
+
